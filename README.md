@@ -9,12 +9,18 @@ Full Stack Development, Artificial Intelligence, and Cybersecurity.
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,cs,javascript,html,css)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,maven,firebase,mysql,postgresql,arduino)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,figma,canva,markdown)](https://skillicons.dev)
-
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-teal?style=for-the-badge&logo=arduino&logoColor=white)
 ### Frameworks & Technologies
 - JavaFX
 - Maven
