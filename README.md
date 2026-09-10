@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Naomi! 👋
 
-<!--
-**naomigoto117-prog/naomigoto117-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering Student | Full Stack Developer  
+🤖 AI & Technology Enthusiast | 🔐 Cybersecurity Learner
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student passionate about building practical
+software applications and continuously expanding my skills in
+Full Stack Development, Artificial Intelligence, and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+- HTML
+- CSS
+
+### Frameworks & Technologies
+- JavaFX
+- Maven
+
+### Tools
+- Git
+- GitHub
+- IntelliJ IDEA
+- VS Code
+
+### AI Tools
+- ChatGPT
+- Claude
+- Gemini
+
+## 🚀 Featured Projects
+
+### 🎓 Enrollment Management System
+
+A JavaFX-based enrollment management system designed to manage
+student enrollment, evaluation, billing, schedules, and
+administrative processes.
+
+**Tech Stack:** Java • JavaFX • Maven • CSV • Git
+
+---
+
+### 🤖 AI Learning Dashboard
+
+An interactive portfolio showcasing my AI learning journey,
+certifications, projects, skills, and progress.
+
+**Tech Stack:** HTML • CSS • JavaScript • AI Tools
