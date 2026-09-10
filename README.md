@@ -17,8 +17,6 @@ Full Stack Development, Artificial Intelligence, and Cybersecurity.
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-teal?style=for-the-badge&logo=arduino&logoColor=white)
 ### Frameworks & Technologies
