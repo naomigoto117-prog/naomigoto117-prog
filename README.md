@@ -7,14 +7,13 @@ I'm a Computer Engineering student passionate about building practical
 software applications and continuously expanding my skills in
 Full Stack Development, Artificial Intelligence, and Cybersecurity.
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Languages
-- Java
-- Python
-- JavaScript
-- HTML
-- CSS
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,cs,javascript,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,maven,firebase,mysql,postgresql,arduino)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,figma,canva,markdown)](https://skillicons.dev)
 
 ### Frameworks & Technologies
 - JavaFX
