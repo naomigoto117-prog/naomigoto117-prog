@@ -19,39 +19,28 @@ Full Stack Development, Artificial Intelligence, and Cybersecurity.
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-teal?style=for-the-badge&logo=arduino&logoColor=white)
-### Frameworks & Technologies
-- JavaFX
-- Maven
 
-### Tools
-- Git
-- GitHub
-- IntelliJ IDEA
-- VS Code
+### ⚙️ Frameworks & Technologies
 
-### AI Tools
-- ChatGPT
-- Claude
-- Gemini
+![JavaFX](https://img.shields.io/badge/JavaFX-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-red?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-## 🚀 Featured Projects
+### 🛠️ Tools & Platforms
 
-### 🎓 Enrollment Management System
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-purple?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-teal?style=for-the-badge&logo=arduino&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=white)
 
-A JavaFX-based enrollment management system designed to manage
-student enrollment, evaluation, billing, schedules, and
-administrative processes.
+### 🤖 AI Tools
 
-**Tech Stack:** Java • JavaFX • Maven • CSV • Git
+![ChatGPT](https://img.shields.io/badge/ChatGPT-black?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-orange?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-blue?style=for-the-badge&logo=google&logoColor=white)
 
----
-
-### 🤖 AI Learning Dashboard
-
-An interactive portfolio showcasing my AI learning journey,
-certifications, projects, skills, and progress.
-
-**Tech Stack:** HTML • CSS • JavaScript • AI Tools
 
 ## 📜 Certifications
 
