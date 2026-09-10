@@ -49,3 +49,11 @@ An interactive portfolio showcasing my AI learning journey,
 certifications, projects, skills, and progress.
 
 **Tech Stack:** HTML • CSS • JavaScript • AI Tools
+
+## 📜 Certifications
+
+- 🎓 Full Stack Developer Internship — Certicode
+- 🤖 AI Fluency: Framework & Foundations
+- 🧠 Claude 101
+- 📧 Email Marketing Certified
+- 💼 HubSpot Sales Hub Software Certified
